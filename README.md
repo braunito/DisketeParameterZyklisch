@@ -1,2 +1,1 @@
-# DisketeParameterZyklisch
-Diskrete Parameter aus zyklischen Datenreihen bestimmen
+# Diskrete Parameter aus zyklischen Datenreihen bestimmen
